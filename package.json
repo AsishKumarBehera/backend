@@ -1,0 +1,19 @@
+{
+  "name": "todaybackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "asish"
+  ],
+  "author": "asish kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "notenv": "^2.0.3"
+  }
+}
